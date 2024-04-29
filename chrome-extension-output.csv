@@ -1,0 +1,3 @@
+﻿"name","date","percentage","quoted","nullish","string with spaces as header"
+"Rouky","2023-09-01",0.4,"""Pickles""",null,"value with spaces"
+"Keiko","2023-09-01",0.9,"""Cactus""","test","more spaces"
